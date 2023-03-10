@@ -76,28 +76,3 @@
 
 [Decoding the Semantic Content of Natural Movies from Human Brain Activity](https://www.frontiersin.org/articles/10.3389/fnsys.2016.00081/full), Frontiers 2016
 
-# Workshops
-
-
-# Tutorials
-[Deep Learning for Brain Encoding and Decoding](https://cognitivesciencesociety.org/wp-content/uploads/2022/04/Paper-ID-1271-cogsci22a-sub1271-i10.pdf), Subba Reddy Oota, Cogsci 2022 [[code]](https://github.com/jashna14/DL4Brain)
-
-[Encoding and Decoding Speech From the Human Brain](https://www.youtube.com/watch?v=aM6N7aTUJxI), Edward Chang, ICML 2021
-
-# Slides
-
-[Reconstructing Speech from Human Auditory Cortex](http://www.cs.toronto.edu/~lex/notes/CSC2518-presentation.pdf)
-
-# Courses
-
-# Datasets
-
-### Movies
-[UC Berkeley](https://berkeley.app.box.com/s/l95gie5xtv56zocsgugmb7fs12nujpog/folder/142176642528)
-
-### Listening and Reading Stories
-[UC Berkeley](https://berkeley.app.box.com/v/Deniz-et-al-2019/folder/91887116790?page=1)
-
-[Narratives](https://datasets.datalad.org/?dir=/labs/hasson/narratives)
-
-[The Moth Radio Hour]
